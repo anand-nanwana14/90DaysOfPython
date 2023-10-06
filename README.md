@@ -8,7 +8,7 @@ Are you ready to take your Python programming skills to the next level? Join us 
 # Introduction
 The 90-Day Python Challenge is designed to help Python developers of all skill levels sharpen their programming abilities. Whether you're a beginner looking to learn Python from scratch or an experienced developer aiming to deepen your expertise, this challenge is for you.
 
-Over the course of 90 days, you'll:
+Over the course of 90 days, you will:
 
 Learn Python fundamentals.
 Tackle coding exercises and challenges.
