@@ -1,4 +1,4 @@
-def func1():
+def func():
  try:
     l = [1,3,5,7]
     i = int(input("Enter the index: "))
@@ -10,6 +10,6 @@ def func1():
  finally:
     print("I am always therer 4 u")
 
-x = func1()
+x = func()
 print(x)
     
