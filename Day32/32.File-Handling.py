@@ -6,5 +6,5 @@ f = open ('0.factorial.py', 'w')
 # f.write("Hii I am sanjay singhania")
 # f.close
 
-f.write("Hello I am write function")
+f.write("Hello i am write function")
 f.close
