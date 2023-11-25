@@ -8,3 +8,6 @@ f.close
 
 f.write("Hello i am write function")
 f.close
+
+f.write("This is write Function")
+f.close
