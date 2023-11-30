@@ -18,6 +18,6 @@ Celebrate your progress along the way.
 
 
 # Challenge Overview
-Start Date: 22/09/2023
+Start Date: 22/10/2023
 End Date: 
 Duration: 90 days
